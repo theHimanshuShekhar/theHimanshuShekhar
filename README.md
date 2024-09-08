@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @theHimanshuShekhar
 - 👀 I’m interested in web dev, machine learning, and whatever random thing comes my way
-- 🌱 I’m currently learning rust, unity game dev, pytorch
+- 👌 I dabble in typescript, javascript, react, next and other cool web stuff
+- 🌱 I’m currently learning golang and maybe some rust...
 - 📫 How to reach me- hshekhar.dev@gmail.com
 
 <!---
