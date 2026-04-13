@@ -78,11 +78,11 @@
 
 <div align="center">
 
-![theHimanshuShekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=theHimanshuShekhar&show_icons=true&theme=radical)
+![theHimanshuShekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=theHimanshuShekhar&show_icons=true&theme=radical&cache_seconds=86400)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=theHimanshuShekhar&theme=radical)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/theHimanshuShekhar/theHimanshuShekhar/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/theHimanshuShekhar/theHimanshuShekhar/output/dist/github-contribution-grid-snake.svg)
 
 </div>
 
