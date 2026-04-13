@@ -82,7 +82,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=theHimanshuShekhar&theme=radical)](https://git.io/streak-stats)
 
-![Snake animation](https://raw.githubusercontent.com/theHimanshuShekhar/theHimanshuShekhar/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/theHimanshuShekhar/theHimanshuShekhar/output/github-contribution-grid-snake.svg)
 
 </div>
 
