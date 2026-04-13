@@ -78,7 +78,7 @@
 
 <div align="center">
 
-![theHimanshuShekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=theHimanshuShekhar&show_icons=true&theme=radical&cache_seconds=86400)
+![theHimanshuShekhar's GitHub stats](./profile/stats.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=theHimanshuShekhar&theme=radical)](https://git.io/streak-stats)
 
