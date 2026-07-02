@@ -1,80 +1,67 @@
-<div align="center">
+# Himanshu Shekhar
 
-# 👋 Hi there — I'm Himanshu
+`hshekhar@bhayanak ~ $ me -h`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Automation+Engineer;TypeScript+Dev;Test+Craft+Enjoyer)](https://git.io/typing-svg)
+Automation engineer at BNP Paribas ISPL.  
+JavaScript, TypeScript, TanStack Start, and the web.  
+Learning Go and Rust. Into AI tooling, Linux, better workflows, gaming, and useful chaos.
 
-[![LinkedIn](https://img.shields.io/badge/-HShekhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thehshekhar)](https://www.linkedin.com/in/thehshekhar)
-[![GitHub followers](https://img.shields.io/github/followers/theHimanshuShekhar?label=Follow&style=social)](https://github.com/theHimanshuShekhar)
-
-</div>
-
----
-
-> 🔭 **Automation Test Engineer @ BNP Paribas**
-> Making sure software doesn't embarrass itself in production.
-
-- 🛠 I write tests that actually catch bugs — not just green checkboxes
-- 🌱 Exploring **Go** and **Rust** outside of work hours
-- ⚡ I automate the boring stuff so the interesting stuff gets attention
+[→ hshekhar.bhayanak.net](https://hshekhar.bhayanak.net) · [→ linkedin.com/in/thehshekhar](https://www.linkedin.com/in/thehshekhar) · [→ hshekhar.dev@gmail.com](mailto:hshekhar.dev@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
+## `$ cat signal.md`
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/-TanStack%20Start-319BFF?style=flat-square&logo=tanstack&logoColor=white)
-
-**Testing**
-
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-9873FF?style=flat-square&logo=vitest&logoColor=white)
+- real-time community apps with rooms, streams, bots, and multiplayer state
+- terminal-flavored web work that stays fast, readable, and a little mischievous
+- playful systems with actual infra: databases, queues, Docker, tests, deploys
+- Rust simulations, Go experiments, Linux workflows, and agent tooling
 
 ---
 
-## 📦 Featured Projects
+## `$ ls proof-points`
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3><a href="https://github.com/theHimanshuShekhar/BhayanakCast">BhayanakCast</a></h3>
-      <p>Real-time streaming platform with a Discord-inspired dark aesthetic, built for creators who want to connect with their audience.</p>
-      <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    </td>
-    <td width="33%">
-      <h3><a href="https://github.com/theHimanshuShekhar/BhayanakBot">BhayanakBot</a></h3>
-      <p>Custom Discord bot built for the Bhayanak community — moderation, utilities, and server automation.</p>
-      <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
-    </td>
-    <td width="33%">
-      <h3><a href="https://github.com/theHimanshuShekhar/AntSimulation">AntSimulation</a></h3>
-      <p>Ant colony simulation in Bevy — stigmergy-based foraging, pheromone trails, and procedural cave terrain generation.</p>
-      <img src="https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=rust&logoColor=black"/>
-    </td>
-  </tr>
-</table>
+### [CardsAgainstBhayanak](https://github.com/theHimanshuShekhar/CardsAgainstBhayanak)
+
+Jackbox-style multiplayer card game: 6-character rooms, no-account joining, Postgres/Redis state, production Docker setup, unit tests, and Playwright E2E coverage.
+
+`TypeScript` · `PostgreSQL` · `Redis` · `Drizzle` · `Vitest` · `Playwright`
+
+### [BhayanakCast](https://github.com/theHimanshuShekhar/BhayanakCast)
+
+Watch-together app for small public/private rooms: TanStack Start, WebRTC screen streams, Discord auth, PostgreSQL, Valkey, admin/profile aggregates, and full quality gates.
+
+`TypeScript` · `TanStack Start` · `WebRTC` · `PostgreSQL` · `Valkey` · `E2E`
+
+### [BhayanakBot](https://github.com/theHimanshuShekhar/BhayanakBot)
+
+Discord community system with moderation, RPG economy, music, tickets, polls, durable Postgres archive, BullMQ/Valkey queues, Docker, and guarded AI integrations.
+
+`TypeScript` · `Discord.js` · `PostgreSQL` · `Drizzle` · `BullMQ` · `Docker`
+
+### [AntSimulation](https://github.com/theHimanshuShekhar/AntSimulation)
+
+Rust/Bevy ant colony simulation exploring stigmergy, pheromone trails, colony lifecycle, and procedural cave terrain.
+
+`Rust` · `Bevy` · `Simulation` · `Procedural systems`
+
+### [hshekhar.bhayanak.net](https://hshekhar.bhayanak.net)
+
+Astro/Tailwind personal site with Tokyo Night terminal identity, JetBrains Mono, typewriter motion, and fully static delivery with no hydration.
+
+`Astro` · `Tailwind CSS` · `Static site` · `Terminal UI`
 
 ---
 
-## 🌱 Currently Learning
+## `$ cat stack.md`
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=rust&logoColor=black)
+**Core build:** TypeScript, TanStack Start, React, Astro, Tailwind CSS  
+**Systems:** PostgreSQL, Redis/Valkey, Drizzle, BullMQ, Docker, WebRTC, Discord.js  
+**Exploring:** Rust, Bevy, Go, agent tooling, Linux workflows
 
 ---
 
-## 📊 GitHub Activity
+## `$ ./activity --github`
 
 <div align="center">
 
@@ -88,7 +75,8 @@
 
 ---
 
-## 🤝 Connect
+## `$ cat contact.md`
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thehshekhar)
-- 📧 [hshekhar.dev@gmail.com](mailto:hshekhar.dev@gmail.com)
+- [→ hshekhar.bhayanak.net](https://hshekhar.bhayanak.net)
+- [→ linkedin.com/in/thehshekhar](https://www.linkedin.com/in/thehshekhar)
+- [→ hshekhar.dev@gmail.com](mailto:hshekhar.dev@gmail.com)
