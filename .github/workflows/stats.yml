@@ -20,12 +20,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1.1.0
+        uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: stats
-          options: "username=theHimanshuShekhar&show_icons=true&theme=radical&cache_seconds=86400"
+          options: "username=theHimanshuShekhar&show_icons=true&theme=tokyonight&hide_border=true"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit generated stats
         if: success()
