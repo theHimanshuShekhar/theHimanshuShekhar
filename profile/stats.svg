@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Himanshu Shekhar&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 2878, Total PRs: 179, Total Issues: 610, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 24, Total Commits  (last year) : 2910, Total PRs: 185, Total Issues: 635, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.3625816367848;
+        stroke-dashoffset: 88.94202703965762;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >179</text>
+      >185</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >610</text>
+      >635</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
